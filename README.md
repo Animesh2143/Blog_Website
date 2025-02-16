@@ -1,5 +1,3 @@
-# Blog_Website
-
 # Blog Website
 
 ## Overview
